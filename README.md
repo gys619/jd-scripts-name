@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gys619&show_icons=true&theme=radical)
 ## manin：脚本列表 master：环境变量
 ## Script脚本列表
 
