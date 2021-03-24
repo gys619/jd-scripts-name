@@ -76,8 +76,4 @@
 |61|[jd_price.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_price.js)|京东保价|[活动入口](https://prodev.m.jd.com/jdlite/active/31U4T6S4PbcK83HyLPioeCWrD63j/index.html)|1 0,23 * * *|
 |62|[jd_beauty.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_beauty.js)|美丽研究院|京东app首页-美妆馆-底部中间按钮|1 7,12,19 * * *|
 |63|[jd_cfd.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cfd.js)|京东财富岛|京喜APP-我的-京喜财富岛|30 8,13,19 * * *|
-|64|[jd_firecrackers.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_firecrackers.js)|她的节，享京豆|[活动入口](https://linggame.jd.com/babelDiy/Zeus/3Y7JfoyA2Nwoa4FRqgDY4WpVjfgP/index.html)|0 8,21 1-8/1 3 *|
-
-## 赞赏码(LXK大佬开发维护不易,请赏杯茶水费)
-
-<div align=center><img width="250" height="250" src="./icon/thanks.jpg"/></div>
+|64|[jd_firecrackers.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_firecrackers.js)|她的节，享京豆|[活动入口](https://linggame.jd.com/babelDiy/Zeus/3Y7JfoyA2Nwoa4FRqgDY4WpVjfgP/index.html)|0 8,21 1-8/1 3 *
